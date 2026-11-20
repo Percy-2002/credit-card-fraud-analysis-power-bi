@@ -17,7 +17,7 @@ Help a fraud or risk team identify high-risk patterns across card types, authent
 
 Fraud rate by card type:compares fraud rates across Amex, Discover, Visa, Mastercard and RuPay
 Fraud % by authentication method: shows how each method (No Authentication, OTP, 3D Secure, PIN, Biometric) performs
-Fraud % by channel and device type:** matrix of ATM, Contactless, In-App, Online and POS against Android, iPhone, Mac, ATM machine, POS terminal and smart watch
+Fraud % by channel and device type: matrix of ATM, Contactless, In-App, Online and POS against Android, iPhone, Mac, ATM machine, POS terminal and smart watch
 Domestic vs foreign transactions:split of fraud cases by transaction origin
 AI scam fraud vs non-AI fraud:compares fraud rates between the two groups
 Fraud cases by time of day: Early Morning, Morning, Afternoon and Evening
