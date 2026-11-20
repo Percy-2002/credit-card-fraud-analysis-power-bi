@@ -45,4 +45,6 @@ Some channel and device combinations stand out,ATM transactions on Mac (3.00%) a
 
 20,000 credit card transactions with a fraud flag.
 Source: kaggle
+<img width="601" height="338" alt="credit card power bi" src="https://github.com/user-attachments/assets/cf96349f-d480-4a70-8043-75fd2daf3ba3" />
+
 Author:Perfect Kapesi 
